@@ -1,2 +1,2 @@
-# mimiee
+# mimie
 personal
